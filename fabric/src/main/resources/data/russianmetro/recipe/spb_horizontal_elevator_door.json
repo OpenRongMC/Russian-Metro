@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		"mtr:psd_door",
+		"minecraft:black_dye"
+	],
+	"result": {
+		"count": 1,
+		"id": "russianmetro:spb_horizontal_elevator_door"
+	}
+}

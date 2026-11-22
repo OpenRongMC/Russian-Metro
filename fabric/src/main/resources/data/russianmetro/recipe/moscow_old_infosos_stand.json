@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"rib",
+		"rib",
+		"rib"
+	],
+	"key": {
+		"i": "minecraft:iron_ingot",
+		"r": "minecraft:red_dye",
+		"b": "minecraft:blue_dye"
+	},
+	"result": {
+		"count": 1,
+		"id": "russianmetro:moscow_old_infosos_stand"
+	}
+}

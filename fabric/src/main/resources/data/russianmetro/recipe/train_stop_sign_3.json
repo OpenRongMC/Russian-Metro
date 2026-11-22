@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		"russianmetro:train_stop_sign_2"
+	],
+	"result": {
+		"count": 1,
+		"id": "russianmetro:train_stop_sign_3"
+	}
+}

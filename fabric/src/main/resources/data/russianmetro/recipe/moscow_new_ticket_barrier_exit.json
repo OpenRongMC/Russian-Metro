@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		"mtr:ticket_barrier_exit_1",
+		"minecraft:glass_pane"
+	],
+	"result": {
+		"count": 1,
+		"id": "russianmetro:moscow_new_ticket_barrier_exit"
+	}
+}
